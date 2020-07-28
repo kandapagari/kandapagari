@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**785pavan/785pavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**785pavan/785pavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 785pavan@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
