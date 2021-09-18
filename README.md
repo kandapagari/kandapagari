@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=785pavan)](https://github.com/anuraghazra/github-readme-stats)
+  [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=785pavan)]
 
 </details>
 
