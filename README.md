@@ -22,12 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-
-</details>
-
-<details>
-  ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=785pavan)
-</details>
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=785pavan)
 
 [twitter]: https://twitter.com/zephyr_347
 [instagram]: https://instagram.com/abhi_pavan_insta/
