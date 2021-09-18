@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/nolan/64/twitter.png"/>][twitter]
+[<img align="left" target="_blank" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/nolan/64/twitter.png"/>][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
 <br />
