@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <details>
   [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=785pavan)](https://github.com/anuraghazra/github-readme-stats)
 
-
 </details>
 
 [twitter]: https://twitter.com/zephyr_347
