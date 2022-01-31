@@ -21,7 +21,7 @@
 [<img align="left" alt="abhi_pavan_insta | Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
 <br />
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=785pavan&theme=tokyonight)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kandapagari&theme=tokyonight)
 
 [twitter]: https://twitter.com/zephyr_347
 [instagram]: https://instagram.com/abhi_pavan_insta/
