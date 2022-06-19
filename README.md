@@ -24,7 +24,7 @@
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kandapagari&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandapagari&theme=tokyonight)](https://github.com/kandapagari)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandapagari&theme=tokyonight)
 
 [twitter]: https://twitter.com/zephyr_347
 [instagram]: https://instagram.com/abhi_pavan_insta/
