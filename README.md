@@ -17,6 +17,9 @@
 
 ### Connect with me:
 
+
+[<img align="left" alt="https://kandapagari.vercel.app/" width="22px" src="https://img.icons8.com/nolan/64/internet.png"/>][website]
+[<img align="left" alt="https://kandapagari-blog.vercel.app/" width="22px" src="https://img.icons8.com/nolan/64/blog.png"/>][blog]
 [<img align="left" alt="zephyr_347 | Twitter" width="22px" src="https://img.icons8.com/nolan/64/twitter.png"/>][twitter]
 [<img align="left" alt="kandapagari | LinkedIn" width="22px" src="https://img.icons8.com/nolan/64/linkedin.png" />][linkedin]
 [<img align="left" alt="abhi_pavan_insta | Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
@@ -29,3 +32,5 @@
 [twitter]: https://twitter.com/zephyr_347
 [instagram]: https://instagram.com/abhi_pavan_insta/
 [linkedin]: https://linkedin.com/in/kandapagari
+[blog]: https://kandapagari-blog.vercel.app/
+[website]: https://kandapagari.vercel.app/
