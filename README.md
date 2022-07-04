@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img align="left" alt="https://kandapagari.vercel.app/" width="22px" src="https://img.icons8.com/nolan/64/developer.png"/>
 
 <!--
 **785pavan/785pavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
