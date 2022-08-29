@@ -1,10 +1,14 @@
-### Hi there 👋 <img align="left" alt="https://kandapagari.vercel.app/" width="22px" src="https://img.icons8.com/nolan/64/developer.png"/>
+# Hi there 👋
 
 <!--
 **785pavan/785pavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 <!-- Here are some ideas to get you started: -->
+[![GitHub User's stars](https://img.shields.io/github/stars/kandapagari?affiliations=OWNER%2CCOLLABORATOR&color=orange&label=total%20stars%20earned&style=for-the-badge)](https://github.com/kandapagari)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zephyr_347?color=blue&label=twitter%20followers&style=for-the-badge)][twitter]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxTxi5eGQ9JpVJQJjMIG8zQ?label=YouTube%20Channel&style=for-the-badge)](https://www.youtube.com/channel/UCxTxi5eGQ9JpVJQJjMIG8zQ)
+[![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&label=Google%20Scholar&logo=googlescholar&message=Pavan%20Kumar%20Kandapagari&color=blue)](https://scholar.google.de/citations?hl=en&user=EkSY9wUAAAAJ)
 
 - 🔭 I’m currently working on Anomaly Detection.
 - 🌱 I’m currently learning Deep Learning.
