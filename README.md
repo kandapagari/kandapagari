@@ -10,7 +10,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxTxi5eGQ9JpVJQJjMIG8zQ?label=YouTube%20Channel&style=for-the-badge)](https://www.youtube.com/channel/UCxTxi5eGQ9JpVJQJjMIG8zQ)
 [![Google Scholar](https://img.shields.io/static/v1?style=for-the-badge&label=Google%20Scholar&logo=googlescholar&message=Pavan%20Kumar%20Kandapagari&color=blue)](https://scholar.google.de/citations?hl=en&user=EkSY9wUAAAAJ)
 
-- 🔭 I’m currently working on Anomaly Detection.
+- 🔭 I’m currently working on Large foundation models.
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on Computer Vison and Deep Learning.
 - 🤔 I’m looking for help with CV, NLP.
