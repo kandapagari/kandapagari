@@ -33,6 +33,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandapagari&theme=tokyonight)
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,fastapi,anaconda,js,react,flutter,vscode,git,rust)](https://skillicons.dev)
+
 [twitter]: https://twitter.com/zephyr_347
 [instagram]: https://instagram.com/abhi_pavan_insta/
 [linkedin]: https://linkedin.com/in/kandapagari
