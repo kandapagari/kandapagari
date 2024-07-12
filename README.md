@@ -33,7 +33,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandapagari&theme=tokyonight)
 
-<a href="https://app.daily.dev/kandapagari"><img src="https://api.daily.dev/devcards/v2/vtGAmQFaR8usEhQAaSZ4W.png?r=f9x&type=default" width="356" alt="kandapagari's Dev Card"/></a>
+<a href="https://app.daily.dev/kandapagari"><img src="https://api.daily.dev/devcards/v2/vtGAmQFaR8usEhQAaSZ4W.png?r=f9x&type=wide" width="652" alt="kandapagari's Dev Card"/></a>
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,fastapi,anaconda,js,react,flutter,vscode,git,rust)](https://skillicons.dev)
