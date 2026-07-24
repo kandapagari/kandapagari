@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Computer Vison and Deep Learning.
 - 🤔 I’m looking for help with CV, NLP.
 - 💬 Ask me about Machinelearning. Deeplearning.
-- 📫 How to reach me: 785pavan@gmail.com.
+- 📫 How to reach me: kandapagari.pavan@gmail.com.
 - ⚡ Fun fact: I love to read sci-fi, I am trying to learn playing a guitar
 - **Jack of all trades, master of none; But oftentimes better than master of one**.
 
